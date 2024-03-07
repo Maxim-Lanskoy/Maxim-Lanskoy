@@ -34,3 +34,12 @@
 [![Petoi](https://img.shields.io/badge/-Petoi-black?style=flat-square)](https://www.petoi.com/)  <!-- No official badge available -->
 [![Creality3D](https://img.shields.io/badge/-Creality3D-black?style=flat-square)](https://www.creality.com/) <!-- No official badge available -->
 [![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-black?style=flat-square)](https://stability.ai/) <!-- No official badge available -->
+
+## GitHub Stats:
+<div align="center">
+<img alt="coding_img" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxim-Lanskoy&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Maxim-Lanskoy"/>
+<img alt="coding_img" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Lanskoy&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" alt="Maxim-Lanskoy"/>
+</div>
+</p>
+
+</div>

@@ -2,17 +2,14 @@
 
 ## 📱 iOS & Server-Side Swift Developer
 
-- 🔭 I’m currently working on [Orion-Nebula](https://orion-nebula.space) project
-- 🌱 I’m currently learning more about AI and Game Development
-- 👯 I’m open to collaboration on Swift-based projects
+- 🔭 I’m currently working on [swift-running-manager](https://github.com/Maxim-Lanskoy/SRM) project
+- 🌱 I’m currently learning more about Swift, AI and Game Development
+- 👯 I’m open to collaboration on Swift-based projects or Godot games
 - 🤔 I’m looking for interesting Vapor and Godot based projects
-- 💬 Ask me about iOS development, Swift, Server-Side Swift and Telegram Bots API
-- 📫 How to reach me: [E-Mail](mailto:maximlanskoy@icloud.com)
+- 💬 Ask me about iOS development, Server-Side Swift, SwiftGodot and Telegram Bots
+- 📫 How to reach me: [E-Mail](mailto:maximlanskoy@icloud.com), [LinkedIn](https://ua.linkedin.com/in/maxim-lanskoy), [@Instagram](https://www.instagram.com/karl_lanskoy/)
 - 😄 Pronouns: He/Him
 - ⛩️ Hiding in the leaves
-
-## Connect with me:
-[LinkedIn](https://ua.linkedin.com/in/maxim-lanskoy) | [@Instagram](https://www.instagram.com/karl_lanskoy/)
 
 ## Languages / Tools / Etc:
 [![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)](https://swift.org/)

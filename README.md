@@ -1,41 +1,60 @@
-# ⛩️ Hi there, I'm Maxim Lanskoy! ⛩️
+# ⛩️ Hi there, I'm Maxim Lanskoy! ⛩️  
+**Swift · AI · Game Dev • Edge-ML tinkerer • Pragmatic DevOps**
 
-## 📱 iOS & Server-Side Swift Developer
+---
 
-- 🔭 I’m currently working on [swift-running-manager](https://github.com/Maxim-Lanskoy/SRM) project
-- 🌱 I’m currently learning more about Swift, AI and Game Development
-- 👯 I’m open to collaboration on Swift-based projects or Godot games
-- 🤔 I’m looking for interesting Vapor and Godot based projects
-- 💬 Ask me about iOS development, Server-Side Swift, SwiftGodot and Telegram Bots
-- 📫 How to reach me: [E-Mail](mailto:maximlanskoy@icloud.com), [LinkedIn](https://ua.linkedin.com/in/maxim-lanskoy), [@Instagram](https://www.instagram.com/karl_lanskoy/)
-- 😄 Pronouns: He/Him
-- ⛩️ Hiding in the leaves
+## 🚀 What I’m Working With Right Now
+| Project | TL;DR |
+| ------- | ----- |
+| **Trae Swift Agent** | 100 % Swift port of Bytedance’s *trae-agent*: AI-powered CLI for software-engineering automation (7 LLM providers, full toolset, Lakeview, Swift concurrency). |
+| **SwiftLlama** | Idiomatic Swift wrapper for *llama.cpp* — the backbone for on-device inference on Macs, Jetson Nano & Pi clusters. |
+| **SRM – Swift Running Manager** | pm2-style process supervisor for Swift executables with auto-restart, startup hooks, and strict-concurrency safety. |
+| **SnowCover API** | Hummingbird micro-service that serves Sentinel-2 snow-depth & fresh-snow tiles for map overlays. |
+| **llama.cpp (Jetson fork)** | CUDA 10.2 build enabling 7--8 B models on a 4 GB Jetson Nano. |
 
-## Languages / Tools / Etc:
-[![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)](https://swift.org/)
-[![Vapor](https://img.shields.io/badge/-Vapor-black?style=flat-square&logo=vapor)](https://vapor.codes/)
-[![Godot Engine](https://img.shields.io/badge/-Godot-black?style=flat-square&logo=godot-engine)](https://godotengine.org/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberry-pi)](https://www.raspberrypi.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
-[![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)](https://developer.apple.com/xcode/)
-[![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)](https://www.apple.com/macos/)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)](https://www.linux.org/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)](https://jupyter.org/)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://telegram.org/)
+> Some of the projects live in the **[LLabs Tech](https://github.com/LLabs-Tech)** org — drop a ⭐ if something helps your workflow!
 
-[![Swift Package Manager](https://img.shields.io/badge/-Swift%20Package%20Manager-black?style=flat-square&logo=swift)](https://swift.org/package-manager/)
-[![NVIDIA Jetson Nano](https://img.shields.io/badge/-NVIDIA%20Jetson%20Nano-black?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)](https://www.openai.com/)
+---
+
+## 🛠 Core Skill Set
+
+- **Server-Side Swift** – Vapor, Hummingbird, Async/Await, SPM micro-services  
+- **Edge & Local AI** – llama.cpp, SwiftLlama, vLLM/LightLLM, RAG pipelines, function-calling, autonomous agents  
+- **iOS & Cross-Platform Apps** – SwiftUI, UIKit, ARKit/RealityKit, React Native back-ends in FastAPI/Vapor  
+- **Game Tech** – Godot 4 (+ SwiftGodot), Unity-as-a-Framework on iOS, procedural terrain generators, multiplayer back-ends with Vapor  
+- **DevOps / Home-Lab** – Docker & docker-compose, NGINX, systemd/PM2, n8n automations, Terraform, Raspberry Pi & Jetson clusters  
+
+---
+
+## 💡 Quick Facts
+
+- 🔭 **Currently focused on:** Trae Swift Agent & distributed LLM hosting experiments  
+- 👯 **Open to:** Swift-based tooling, Godot/Unity game prototypes, edge-ML research collabs  
+- 💬 **Ask me about:** Server-Side Swift, on-device LLMs, RAG/agent architectures, Godot, Telegram bots  
+- 📫 **Reach me:** [E-Mail](mailto:maximlanskoy@icloud.com) • [LinkedIn](https://ua.linkedin.com/in/maxim-lanskoy) • [Instagram](https://www.instagram.com/karl_lanskoy/)  
+- 😄 **Pronouns:** He / Him  
+- ⛩️ **Hiding in the leaves**
+
+---
+
+## 🏷 Tech Badges
+
+[![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org/)
+[![Godot Engine](https://img.shields.io/badge/Godot-478cbf?style=flat-square&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.org/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-c51a4a?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
+[![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76b900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/embedded/jetson)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Vapor](https://img.shields.io/badge/Vapor-0d0d0d?style=flat-square&logo=vapor&logoColor=white)](https://vapor.codes/)
+[![Hummingbird](https://img.shields.io/badge/Hummingbird-0d0d0d?style=flat-square)](https://github.com/hummingbird-project/hummingbird)
+
+[![Swift Package Manager](https://img.shields.io/badge/SPM-f05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org/package-manager/)
+[![Google Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Anthropic](https://img.shields.io/badge/Anthropic-0d0d0d?style=flat-square)](https://www.anthropic.com/)
+[![Xcode](https://img.shields.io/badge/Xcode-0d0d0d?style=flat-square&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![NGINX](https://img.shields.io/badge/NGINX-0d0d0d?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)](https://www.digitalocean.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)](https://www.heroku.com/)
-[![Petoi](https://img.shields.io/badge/-Petoi-black?style=flat-square)](https://www.petoi.com/)  <!-- No official badge available -->
-[![Creality3D](https://img.shields.io/badge/-Creality3D-black?style=flat-square)](https://www.creality.com/) <!-- No official badge available -->
-[![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-black?style=flat-square)](https://stability.ai/) <!-- No official badge available -->
-
-## GitHub Stats:
-<div align="center">
-<img alt="coding_img" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Lanskoy&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" alt="Maxim-Lanskoy"/>
-</div>
-</p>
-
-</div>
+[![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-black?style=flat-square)](https://stability.ai/)

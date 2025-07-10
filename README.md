@@ -12,7 +12,7 @@
 | **SnowCover API** | Hummingbird micro-service that serves Sentinel-2 snow-depth & fresh-snow tiles for map overlays. |
 | **llama.cpp (Jetson fork)** | CUDA 10.2 build enabling 7--8 B models on a 4 GB Jetson Nano. |
 
-> Some of the projects live in the **[LLabs Tech](https://github.com/LLabs-Tech)** org — drop a ⭐ if something helps your workflow!
+> Some of the projects live in the **[LLabs Tech](https://github.com/LLabsTech)** org — drop a ⭐ if something helps your workflow!
 
 ---
 

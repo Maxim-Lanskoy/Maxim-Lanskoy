@@ -6,7 +6,7 @@
 ## 🚀 What I’m Working With Right Now
 | Project | TL;DR |
 | ------- | ----- |
-| **Trae Swift Agent** | 100 % Swift port of Bytedance’s *trae-agent*: AI-powered CLI for software-engineering automation (7 LLM providers, full toolset, Lakeview, Swift concurrency). |
+| **Neuronaut** | Swift wraper for Bytedance’s *trae-agent*: AI-powered Telegram bot for software-engineering automation. |
 | **SwiftLlama** | Idiomatic Swift wrapper for *llama.cpp* — the backbone for on-device inference on Macs, Jetson Nano & Pi clusters. |
 | **SRM – Swift Running Manager** | pm2-style process supervisor for Swift executables with auto-restart, startup hooks, and strict-concurrency safety. |
 | **SnowCover API** | Hummingbird micro-service that serves Sentinel-2 snow-depth & fresh-snow tiles for map overlays. |
@@ -28,7 +28,7 @@
 
 ## 💡 Quick Facts
 
-- 🔭 **Currently focused on:** Trae Swift Agent & distributed LLM hosting experiments  
+- 🔭 **Currently focused on:** Neuronaut Agent & distributed LLM hosting experiments  
 - 👯 **Open to:** Swift-based tooling, Godot/Unity game prototypes, edge-ML research collabs  
 - 💬 **Ask me about:** Server-Side Swift, on-device LLMs, RAG/agent architectures, Godot, Telegram bots  
 - 📫 **Reach me:** [E-Mail](mailto:maximlanskoy@icloud.com) • [LinkedIn](https://ua.linkedin.com/in/maxim-lanskoy) • [Instagram](https://www.instagram.com/karl_lanskoy/)  

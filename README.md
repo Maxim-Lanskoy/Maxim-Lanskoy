@@ -6,7 +6,7 @@
 ## 🚀 What I’m Working With Right Now
 | Project | TL;DR |
 | ------- | ----- |
-| **Neuronaut** | Swift wraper for Bytedance’s *trae-agent*: AI-powered Telegram bot for software-engineering automation. |
+| **TGBotSwiftTemplate** | A Telegram Bot template built with Swift, using a router-controller architecture, multiple languages, and database persistence. |
 | **SwiftLlama** | Idiomatic Swift wrapper for *llama.cpp* — the backbone for on-device inference on Macs, Jetson Nano & Pi clusters. |
 | **SRM – Swift Running Manager** | pm2-style process supervisor for Swift executables with auto-restart, startup hooks, and strict-concurrency safety. |
 | **SnowCover API** | Hummingbird micro-service that serves Sentinel-2 snow-depth & fresh-snow tiles for map overlays. |

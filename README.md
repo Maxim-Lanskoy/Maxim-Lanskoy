@@ -8,7 +8,7 @@
 | ------- | ----- |
 | **TGBotSwiftTemplate** | A Telegram Bot template built with Swift, using a router-controller architecture, multiple languages, and database persistence. |
 | **SwiftLlama** | Idiomatic Swift wrapper for *llama.cpp* — the backbone for on-device inference on Macs, Jetson Nano & Pi clusters. |
-| **SRM – Swift Running Manager** | pm2-style process supervisor for Swift executables with auto-restart, startup hooks, and strict-concurrency safety. |
+| **Starter Kit Platformer Swift** | Swift implementation of Kenney’s Platformer Starter Kit by lorenalexm, adapted to showcase the usage of SwiftGodot (v0.74.0+) for developing in Godot 4.5. |
 | **SnowCover API** | Hummingbird micro-service that serves Sentinel-2 snow-depth & fresh-snow tiles for map overlays. |
 | **llama.cpp (Jetson fork)** | CUDA 10.2 build enabling 7--8 B models on a 4 GB Jetson Nano. |
 
